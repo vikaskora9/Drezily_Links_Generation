@@ -1,0 +1,2 @@
+Product_Category,Category,Subcategory1,Subcategory2,Subcategory3,Url,Attr_Name,Attr_Value
+Clothing,Women,Western,Topwear,Topwear,https://www.italist.com/api/search_products/women?skip=0&onSale[]=0&categories[]=59&categories[]=44,onSale,0

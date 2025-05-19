@@ -1,0 +1,125 @@
+Attr_Name,Attr_Value
+colorWithNames,Beige
+colorWithNames,Black
+colorWithNames,Blue
+colorWithNames,Brown
+colorWithNames,Gold-Colored
+colorWithNames,Gray
+colorWithNames,Green
+colorWithNames,Multi
+colorWithNames,Orange
+colorWithNames,Pink
+colorWithNames,Red
+colorWithNames,Silver-Colored
+colorWithNames,Turquoise
+colorWithNames,White
+colorWithNames,Yellow
+clothingStyles,A-Line
+clothingStyles,Babydoll
+clothingStyles,Bandeau
+clothingStyles,Blazer
+clothingStyles,Blazer Dress
+clothingStyles,Bodycon
+clothingStyles,Bomber Jacket
+clothingStyles,Boxy
+clothingStyles,Camisole Top
+clothingStyles,Cargo
+clothingStyles,Corset Dress
+clothingStyles,Cut-Out
+clothingStyles,Double-Breasted
+clothingStyles,Draped
+clothingStyles,Flared
+clothingStyles,Half-Zip
+clothingStyles,Jumper
+clothingStyles,Keyhole Cutout
+clothingStyles,Off-The-Shoulder
+clothingStyles,One-Shoulder
+clothingStyles,Open Back
+clothingStyles,Open Shoulder
+clothingStyles,Pencil Dress
+clothingStyles,Plunge Back
+clothingStyles,Racer Back
+clothingStyles,Shirt Dress
+clothingStyles,Skater
+clothingStyles,Slip Dress
+clothingStyles,Slit
+clothingStyles,Smocked
+clothingStyles,Strapless
+clothingStyles,Strappy Dress
+clothingStyles,Sweater Dress
+clothingStyles,T-Shirt Dress
+clothingStyles,Tie-Front
+clothingStyles,Tunic
+clothingStyles,Wrapover
+garmentLengths,Knee-Length
+garmentLengths,Long
+garmentLengths,Maxi
+garmentLengths,Midi
+garmentLengths,Mini
+garmentLengths,Short
+sleeveLengths,3/4 Sleeve
+sleeveLengths,Extra-Long Sleeve
+sleeveLengths,Long Sleeve
+sleeveLengths,Short Sleeve
+sleeveLengths,Sleeveless
+fits,Loose Fit
+fits,Oversized
+fits,Regular Fit
+fits,Relaxed Fit
+fits,Slim Fit
+occasion,Beach
+occasion,Casual
+occasion,Formal
+occasion,Lounge
+occasion,Office Wear
+occasion,Party
+occasion,Sport
+occasion,Wedding
+patterns,Checked
+patterns,Dotted
+patterns,Floral
+patterns,Leopard-Print
+patterns,Paisley-Patterned
+patterns,Patterned
+patterns,Snakeskin-Patterned
+patterns,Solid-Color
+patterns,Striped
+patterns,Zebra-Print
+necklineStyles,Asymmetric Neckline
+necklineStyles,Boat Neck
+necklineStyles,Cowl Neck
+necklineStyles,Crew-Neck
+necklineStyles,Halterneck
+necklineStyles,Low-Cut Neckline
+necklineStyles,Mock Turtleneck
+necklineStyles,Plunge Neckline
+necklineStyles,Round Neck
+necklineStyles,Square Neckline
+necklineStyles,Sweetheart Neckline
+necklineStyles,Turtleneck
+necklineStyles,V-Neck
+qualities,H&M Premium Selection
+materials,Bouclé
+materials,Cashmere
+materials,Chiffon
+materials,Cotton
+materials,Crepe
+materials,Denim
+materials,Dobby
+materials,French Terry
+materials,Jersey
+materials,Lace
+materials,Linen
+materials,Lyocell
+materials,Mesh
+materials,Microfiber
+materials,Muslin
+materials,Polyurethane Material
+materials,Poplin
+materials,Rayon
+materials,Satin
+materials,Scuba
+materials,Seersucker
+materials,Twill
+materials,Voile
+materials,Wool

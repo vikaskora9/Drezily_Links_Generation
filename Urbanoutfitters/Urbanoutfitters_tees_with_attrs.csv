@@ -1,0 +1,33 @@
+Product_Category,Category,Subcategory1,Subcategory2,Subcategory3,Url,Attr_Name,Attr_Value,Refinement,Ref_Value
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/graphic-tees-for-women?page=3&Style=Oversized,Style,Oversized,tile.product.facets.silhouettes,Oversized
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/graphic-tees-for-women?page=3&Style=Cropped,Style,Cropped,tile.product.facets.silhouettes,Cropped
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/graphic-tees-for-women?page=3&Style=Fitted,Style,Fitted,tile.product.facets.silhouettes,Fitted
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/graphic-tees-for-women?page=3&Style=Zip-Up,Style,Zip-Up,tile.product.facets.silhouettes,Zip-Up
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/graphic-tees-for-women?page=3&Style=Baby Tees,Style,Baby Tees,tile.product.facets.silhouettes,Baby Tees
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/graphic-tees-for-women?page=3&Color=grey,Color,Grey,visualVariants.colorwayNames,grey
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/graphic-tees-for-women?page=3&Color=black,Color,Black,visualVariants.colorwayNames,black
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/graphic-tees-for-women?page=3&Color=blue,Color,Blue,visualVariants.colorwayNames,blue
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/graphic-tees-for-women?page=3&Color=white,Color,White,visualVariants.colorwayNames,white
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/graphic-tees-for-women?page=3&Color=green,Color,Green,visualVariants.colorwayNames,green
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/graphic-tees-for-women?page=3&Color=red,Color,Red,visualVariants.colorwayNames,red
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/graphic-tees-for-women?page=3&Color=beige,Color,Beige,visualVariants.colorwayNames,beige
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/graphic-tees-for-women?page=3&Color=yellow,Color,Yellow,visualVariants.colorwayNames,yellow
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/graphic-tees-for-women?page=3&Color=brown,Color,Brown,visualVariants.colorwayNames,brown
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/graphic-tees-for-women?page=3&Color=pink,Color,Pink,visualVariants.colorwayNames,pink
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/graphic-tees-for-women?page=3&Color=purple,Color,Purple,visualVariants.colorwayNames,purple
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/graphic-tees-for-women?page=3&Color=orange,Color,Orange,visualVariants.colorwayNames,orange
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/graphic-tees-for-women?page=3&Color=gold,Color,Gold,visualVariants.colorwayNames,gold
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/graphic-tees-for-women?page=3&Color=maroon,Color,Maroon,visualVariants.colorwayNames,maroon
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/graphic-tees-for-women?page=3&Color=mint,Color,Mint,visualVariants.colorwayNames,mint
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/graphic-tees-for-women?page=3&Sleeve=Short Sleeve,Sleeve,Short Sleeve,tile.product.facets.sleeve,Short Sleeve
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/graphic-tees-for-women?page=3&Sleeve=Long Sleeve,Sleeve,Long Sleeve,tile.product.facets.sleeve,Long Sleeve
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/graphic-tees-for-women?page=3&Sleeve=Sleeveless,Sleeve,Sleeveless,tile.product.facets.sleeve,Sleeveless
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/graphic-tees-for-women?page=3&Neckline=Crew Neck,Neckline,Crew Neck,tile.product.facets.neck,Crew Neck
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/graphic-tees-for-women?page=3&Neckline=Hooded,Neckline,Hooded,tile.product.facets.neck,Hooded
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/graphic-tees-for-women?page=3&Neckline=V-Neck,Neckline,V-Neck,tile.product.facets.neck,V-Neck
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/graphic-tees-for-women?page=3&Neckline=Collared,Neckline,Collared,tile.product.facets.neck,Collared
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/graphic-tees-for-women?page=3&Neckline=Half-Zip,Neckline,Half-Zip,tile.product.facets.neck,Half-Zip
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/graphic-tees-for-women?page=3&Neckline=Turtleneck + Mock Neck,Neckline,Turtleneck + Mock Neck,tile.product.facets.neck,Turtleneck + Mock Neck
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/graphic-tees-for-women?page=3&Neckline=Boat,Neckline,Boat,tile.product.facets.neck,Boat
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/graphic-tees-for-women?page=3&Neckline=Off-the-Shoulder,Neckline,Off-The-Shoulder,tile.product.facets.neck,Off-the-Shoulder
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/graphic-tees-for-women?page=3&Neckline=One Shoulder,Neckline,One Shoulder,tile.product.facets.neck,One Shoulder

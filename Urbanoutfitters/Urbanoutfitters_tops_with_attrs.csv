@@ -1,0 +1,81 @@
+Product_Category,Category,Subcategory1,Subcategory2,Subcategory3,Url,Attr_Name,Attr_Value,Refinement,Ref_Value
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Oversized,Style,Oversized,tile.product.facets.silhouettes,Oversized
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Cropped,Style,Cropped,tile.product.facets.silhouettes,Cropped
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Fitted,Style,Fitted,tile.product.facets.silhouettes,Fitted
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Pullovers,Style,Pullovers,tile.product.facets.silhouettes,Pullovers
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Cardigans,Style,Cardigans,tile.product.facets.silhouettes,Cardigans
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Button-Downs,Style,Button-Downs,tile.product.facets.silhouettes,Button-Downs
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Basic,Style,Basic,tile.product.facets.silhouettes,Basic
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Zip-Up,Style,Zip-Up,tile.product.facets.silhouettes,Zip-Up
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Blouses,Style,Blouses,tile.product.facets.silhouettes,Blouses
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Flannels,Style,Flannels,tile.product.facets.silhouettes,Flannels
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Henleys,Style,Henleys,tile.product.facets.silhouettes,Henleys
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Asymmetrical,Style,Asymmetrical,tile.product.facets.silhouettes,Asymmetrical
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Bodysuit,Style,Bodysuit,tile.product.facets.silhouettes,Bodysuit
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Ribbed,Style,Ribbed,tile.product.facets.silhouettes,Ribbed
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Ruched,Style,Ruched,tile.product.facets.silhouettes,Ruched
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Peplum,Style,Peplum,tile.product.facets.silhouettes,Peplum
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Polos,Style,Polos,tile.product.facets.silhouettes,Polos
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Shrugs,Style,Shrugs,tile.product.facets.silhouettes,Shrugs
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Baby Tees,Style,Baby Tees,tile.product.facets.silhouettes,Baby Tees
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Babydoll,Style,Babydoll,tile.product.facets.silhouettes,Babydoll
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Smocked,Style,Smocked,tile.product.facets.silhouettes,Smocked
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Bustiers + Corsets,Style,Bustiers + Corsets,tile.product.facets.silhouettes,Bustiers + Corsets
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Bra Tops,Style,Bra Tops,tile.product.facets.silhouettes,Bra Tops
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Wrap,Style,Wrap,tile.product.facets.silhouettes,Wrap
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Color=black,Color,Black,visualVariants.colorwayNames,black
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Color=white,Color,White,visualVariants.colorwayNames,white
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Color=blue,Color,Blue,visualVariants.colorwayNames,blue
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Color=grey,Color,Grey,visualVariants.colorwayNames,grey
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Color=red,Color,Red,visualVariants.colorwayNames,red
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Color=green,Color,Green,visualVariants.colorwayNames,green
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Color=beige,Color,Beige,visualVariants.colorwayNames,beige
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Color=brown,Color,Brown,visualVariants.colorwayNames,brown
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Color=purple,Color,Purple,visualVariants.colorwayNames,purple
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Color=pink,Color,Pink,visualVariants.colorwayNames,pink
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Color=yellow,Color,Yellow,visualVariants.colorwayNames,yellow
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Color=assorted,Color,Assorted,visualVariants.colorwayNames,assorted
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Color=orange,Color,Orange,visualVariants.colorwayNames,orange
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Color=multi,Color,Multi,visualVariants.colorwayNames,multi
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Color=maroon,Color,Maroon,visualVariants.colorwayNames,maroon
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Color=animal,Color,Animal,visualVariants.colorwayNames,animal
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Color=gold,Color,Gold,visualVariants.colorwayNames,gold
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Color=silver,Color,Silver,visualVariants.colorwayNames,silver
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Color=tan,Color,Tan,visualVariants.colorwayNames,tan
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Color=metallic,Color,Metallic,visualVariants.colorwayNames,metallic
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Color=mint,Color,Mint,visualVariants.colorwayNames,mint
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Neckline=Crew Neck,Neckline,Crew Neck,tile.product.facets.neck,Crew Neck
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Neckline=Hooded,Neckline,Hooded,tile.product.facets.neck,Hooded
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Neckline=V-Neck,Neckline,V-Neck,tile.product.facets.neck,V-Neck
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Neckline=Collared,Neckline,Collared,tile.product.facets.neck,Collared
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Neckline=Turtleneck + Mock Neck,Neckline,Turtleneck + Mock Neck,tile.product.facets.neck,Turtleneck + Mock Neck
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Neckline=Boat,Neckline,Boat,tile.product.facets.neck,Boat
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Neckline=Off-the-Shoulder,Neckline,Off-The-Shoulder,tile.product.facets.neck,Off-the-Shoulder
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Neckline=Scoop Neck,Neckline,Scoop Neck,tile.product.facets.neck,Scoop Neck
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Neckline=Plunging,Neckline,Plunging,tile.product.facets.neck,Plunging
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Neckline=Square Neck,Neckline,Square Neck,tile.product.facets.neck,Square Neck
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Neckline=Sweetheart,Neckline,Sweetheart,tile.product.facets.neck,Sweetheart
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Neckline=Half-Zip,Neckline,Half-Zip,tile.product.facets.neck,Half-Zip
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Neckline=Open,Neckline,Open,tile.product.facets.neck,Open
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Neckline=Cowl Neck,Neckline,Cowl Neck,tile.product.facets.neck,Cowl Neck
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Neckline=One Shoulder,Neckline,One Shoulder,tile.product.facets.neck,One Shoulder
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Sleeve=Long Sleeve,Sleeve,Long Sleeve,tile.product.facets.sleeve,Long Sleeve
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Sleeve=Sleeveless,Sleeve,Sleeveless,tile.product.facets.sleeve,Sleeveless
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Sleeve=Short Sleeve,Sleeve,Short Sleeve,tile.product.facets.sleeve,Short Sleeve
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Sleeve=Strapless,Sleeve,Strapless,tile.product.facets.sleeve,Strapless
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Sleeve=3/4 Sleeve,Sleeve,3/4 Sleeve,tile.product.facets.sleeve,3/4 Sleeve
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Material=Cotton,Material,Cotton,tile.product.facets.material,Cotton
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Material=Mesh,Material,Mesh,tile.product.facets.material,Mesh
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Material=Lace,Material,Lace,tile.product.facets.material,Lace
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Material=Flannel,Material,Flannel,tile.product.facets.material,Flannel
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Material=Wool,Material,Wool,tile.product.facets.material,Wool
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Material=Nylon,Material,Nylon,tile.product.facets.material,Nylon
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Material=Denim,Material,Denim,tile.product.facets.material,Denim
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Material=Jersey,Material,Jersey,tile.product.facets.material,Jersey
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Material=Rayon,Material,Rayon,tile.product.facets.material,Rayon
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Material=Seamless,Material,Seamless,tile.product.facets.material,Seamless
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Material=Corduroy,Material,Corduroy,tile.product.facets.material,Corduroy
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Material=Sequin + Shine,Material,Sequin + Shine,tile.product.facets.material,Sequin + Shine
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Material=Modal,Material,Modal,tile.product.facets.material,Modal
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Material=Satin,Material,Satin,tile.product.facets.material,Satin
+Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Material=Velvet,Material,Velvet,tile.product.facets.material,Velvet

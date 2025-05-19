@@ -1,0 +1,98 @@
+Attr_Name,Attr_Value
+Style,Activewear
+Style,Babydoll Dresses
+Style,Backless Dresses
+Style,Basics
+Style,Belted
+Style,Bodycon Dresses
+Style,Casual Dresses
+Style,Collar
+Style,Corsets / Bustiers
+Style,Dresses
+Style,Festival Dresses
+Style,Flared Sleeve
+Style,Formal & Prom
+Style,Graduation Dresses
+Style,Graphic Tees
+Style,Halter
+Style,Jumpsuits
+Style,Lace Up
+Style,Linen Dresses
+Style,Long Sleeve
+Style,Long Sleeve Dresses
+Style,Loungewear
+Style,Maxi Dresses
+Style,Midi Dresses
+Style,Mini Dresses
+Style,Off Shoulder
+Style,One Shoulder
+Style,Party Dresses
+Style,Pleated
+Style,Print Dresses
+Style,Puffed Sleeve
+Style,Rompers
+Style,Short Sleeves
+Style,Sleeveless
+Style,Slit
+Style,Strapless
+Style,Sweater Dresses
+Style,Swim
+Style,Tees
+Style,Waist Tie
+Style,With Straps
+Style,Wrap Dresses
+skus.customFields.size,L/XL
+skus.customFields.size,M/L
+skus.customFields.size,"M/L,"
+skus.customFields.size,S/M
+skus.customFields.size,US 0
+skus.customFields.size,US 10
+skus.customFields.size,US 12
+skus.customFields.size,US 14
+skus.customFields.size,US 16
+skus.customFields.size,US 18
+skus.customFields.size,US 2
+skus.customFields.size,US 20
+skus.customFields.size,US 4
+skus.customFields.size,US 6
+skus.customFields.size,US 8
+skus.customFields.size,XS/S
+customFields.accentuate-nosto_facet_color,Beige
+customFields.accentuate-nosto_facet_color,Black
+customFields.accentuate-nosto_facet_color,Blue
+customFields.accentuate-nosto_facet_color,Brown
+customFields.accentuate-nosto_facet_color,Green
+customFields.accentuate-nosto_facet_color,Grey
+customFields.accentuate-nosto_facet_color,Mauve
+customFields.accentuate-nosto_facet_color,Orange
+customFields.accentuate-nosto_facet_color,Pink
+customFields.accentuate-nosto_facet_color,Purple
+customFields.accentuate-nosto_facet_color,Red
+customFields.accentuate-nosto_facet_color,White
+customFields.accentuate-nosto_facet_color,Yellow
+Neckline,Asymmetric
+Neckline,Boat
+Neckline,Boat Neck
+Neckline,Collar
+Neckline,Cowl Neck
+Neckline,Crew Neck
+Neckline,Halter
+Neckline,High Neck
+Neckline,Mock Neck
+Neckline,Plunger
+Neckline,Round
+Neckline,Scoop
+Neckline,Scoop Neck
+Neckline,Square Neck
+Neckline,Sweetheart
+Neckline,V-Neck
+Print,Abstract
+Print,Animal Print
+Print,Checkered
+Print,Floral
+Print,Gingham
+Print,Paisley
+Print,Plaid
+Print,Polkadot
+Print,Solid
+Print,Stripe

@@ -1,0 +1,74 @@
+Product_Category,Category,Subcategory1,Subcategory2,Subcategory3,Url,Attr_Name,Attr_Value,Refinement,Ref_Value
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Color=black,Color,Black,visualVariants.colorwayNames,black
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Color=white,Color,White,visualVariants.colorwayNames,white
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Color=blue,Color,Blue,visualVariants.colorwayNames,blue
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Color=green,Color,Green,visualVariants.colorwayNames,green
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Color=beige,Color,Beige,visualVariants.colorwayNames,beige
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Color=pink,Color,Pink,visualVariants.colorwayNames,pink
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Color=assorted,Color,Assorted,visualVariants.colorwayNames,assorted
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Color=red,Color,Red,visualVariants.colorwayNames,red
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Color=brown,Color,Brown,visualVariants.colorwayNames,brown
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Color=purple,Color,Purple,visualVariants.colorwayNames,purple
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Color=grey,Color,Grey,visualVariants.colorwayNames,grey
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Color=animal,Color,Animal,visualVariants.colorwayNames,animal
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Color=orange,Color,Orange,visualVariants.colorwayNames,orange
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Color=yellow,Color,Yellow,visualVariants.colorwayNames,yellow
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Color=metallic,Color,Metallic,visualVariants.colorwayNames,metallic
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Color=multi,Color,Multi,visualVariants.colorwayNames,multi
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Color=gold,Color,Gold,visualVariants.colorwayNames,gold
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Color=silver,Color,Silver,visualVariants.colorwayNames,silver
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Color=mint,Color,Mint,visualVariants.colorwayNames,mint
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Length=Mini,Length,Mini,tile.product.facets.length,Mini
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Length=Midi,Length,Midi,tile.product.facets.length,Midi
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Length=Maxi,Length,Maxi,tile.product.facets.length,Maxi
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Sleeve=Sleeveless,Sleeve,Sleeveless,tile.product.facets.sleeve,Sleeveless
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Sleeve=Short Sleeve,Sleeve,Short Sleeve,tile.product.facets.sleeve,Short Sleeve
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Sleeve=Strapless,Sleeve,Strapless,tile.product.facets.sleeve,Strapless
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Sleeve=Long Sleeve,Sleeve,Long Sleeve,tile.product.facets.sleeve,Long Sleeve
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Style=A-Line,Style,A-Line,tile.product.facets.silhouettes,A-Line
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Style=Printed,Style,Printed,tile.product.facets.silhouettes,Printed
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Style=Bodycon,Style,Bodycon,tile.product.facets.silhouettes,Bodycon
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Style=Slips,Style,Slips,tile.product.facets.silhouettes,Slips
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Style=Shift + Babydoll,Style,Shift + Babydoll,tile.product.facets.silhouettes,Shift + Babydoll
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Style=Drop Waist,Style,Drop Waist,tile.product.facets.silhouettes,Drop Waist
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Style=Fit + Flare,Style,Fit + Flare,tile.product.facets.silhouettes,Fit + Flare
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Style=Cut Out,Style,Cut Out,tile.product.facets.silhouettes,Cut Out
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Style=Ruffle + Tiered,Style,Ruffle + Tiered,tile.product.facets.silhouettes,Ruffle + Tiered
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Style=Asymmetrical,Style,Asymmetrical,tile.product.facets.silhouettes,Asymmetrical
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Style=Ruched,Style,Ruched,tile.product.facets.silhouettes,Ruched
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Style=Tie-Back,Style,Tie-Back,tile.product.facets.silhouettes,Tie-Back
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Style=Slit,Style,Slit,tile.product.facets.silhouettes,Slit
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Style=Bustier + Corset,Style,Bustier + Corset,tile.product.facets.silhouettes,Bustier + Corset
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Style=Button-Down,Style,Button-Down,tile.product.facets.silhouettes,Button-Down
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Style=Wrap,Style,Wrap,tile.product.facets.silhouettes,Wrap
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Neckline=V-Neck,Neckline,V-Neck,tile.product.facets.neck,V-Neck
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Neckline=Square Neck,Neckline,Square Neck,tile.product.facets.neck,Square Neck
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Neckline=Halter,Neckline,Halter,tile.product.facets.neck,Halter
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Neckline=Plunging,Neckline,Plunging,tile.product.facets.neck,Plunging
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Neckline=Scoop Neck,Neckline,Scoop Neck,tile.product.facets.neck,Scoop Neck
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Neckline=Sweetheart,Neckline,Sweetheart,tile.product.facets.neck,Sweetheart
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Neckline=Crew Neck,Neckline,Crew Neck,tile.product.facets.neck,Crew Neck
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Neckline=Straight Neck,Neckline,Straight Neck,tile.product.facets.neck,Straight Neck
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Neckline=Turtleneck + Mock Neck,Neckline,Turtleneck + Mock Neck,tile.product.facets.neck,Turtleneck + Mock Neck
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Neckline=Boat,Neckline,Boat,tile.product.facets.neck,Boat
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Neckline=Cowl Neck,Neckline,Cowl Neck,tile.product.facets.neck,Cowl Neck
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Neckline=Off-the-Shoulder,Neckline,Off-The-Shoulder,tile.product.facets.neck,Off-the-Shoulder
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Neckline=One Shoulder,Neckline,One Shoulder,tile.product.facets.neck,One Shoulder
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Neckline=Collared,Neckline,Collared,tile.product.facets.neck,Collared
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Neckline=Hooded,Neckline,Hooded,tile.product.facets.neck,Hooded
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Material=Cotton,Material,Cotton,tile.product.facets.material,Cotton
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Material=Lace,Material,Lace,tile.product.facets.material,Lace
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Material=Mesh,Material,Mesh,tile.product.facets.material,Mesh
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Material=Satin,Material,Satin,tile.product.facets.material,Satin
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Material=Denim,Material,Denim,tile.product.facets.material,Denim
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Material=Linen,Material,Linen,tile.product.facets.material,Linen
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Material=Rayon,Material,Rayon,tile.product.facets.material,Rayon
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Material=Sweater,Material,Sweater,tile.product.facets.material,Sweater
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Material=Sequin + Shine,Material,Sequin + Shine,tile.product.facets.material,Sequin + Shine
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Material=Chiffon,Material,Chiffon,tile.product.facets.material,Chiffon
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Material=Crochet,Material,Crochet,tile.product.facets.material,Crochet
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Material=Tulle,Material,Tulle,tile.product.facets.material,Tulle
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Material=Velvet,Material,Velvet,tile.product.facets.material,Velvet
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Occasion=Casual,Occasion,Casual,tile.product.facets.occasions,Casual
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Occasion=Going Out,Occasion,Going Out,tile.product.facets.occasions,Going Out
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.urbanoutfitters.com/dresses?page=3&Occasion=Special Occasion,Occasion,Special Occasion,tile.product.facets.occasions,Special Occasion

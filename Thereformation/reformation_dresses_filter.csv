@@ -1,0 +1,56 @@
+Attr_Name,Attr_Value
+color,Black
+color,Ivory
+color,Green
+color,Blue
+color,Purple
+color,Pink
+color,Natural
+color,Multi
+color,Red
+color,Brown
+color,Champagne
+color,Orange
+color,Yellow
+color,Grey
+color,Gold
+length,Maxi
+length,Midi
+length,Short
+sleeve,Sleeveless
+sleeve,3/4 sleeve
+sleeve,Long sleeve
+sleeve,Short sleeve
+sleeve,Strapless
+fabric_type,Knit
+fabric_type,Denim
+fabric_type,Cotton
+fabric_type,Woven
+fabric_type,Wool
+fabric_type,Leather
+fabric_type,Linen
+fabric_type,Cashmere
+fabric_type,Deadstock
+fabric_type,Satin and Silk
+fabric_type,Velvet
+print,Abstract
+print,Animal
+print,Check
+print,Dots
+print,Floral
+print,Fruit
+print,Geometric
+print,Solid
+print,Sparkle
+print,Striped
+print,Trend
+bra_friendly,friendly
+silhouette,Babydoll
+silhouette,Fitted
+silhouette,Shift
+silhouette,Slip
+readyToShip,Ships right away
+sustainability_filter,Organically grown
+sustainability_filter,Recycled material
+sustainability_filter,Deadstock
+sustainability_filter,Regeneratively grown

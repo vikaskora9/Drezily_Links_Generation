@@ -1,0 +1,22 @@
+Product_Category,Category,Subcategory1,Subcategory2,Subcategory3,Url,Attr_Name,Attr_Value
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.italist.com/api/search_products/women?colors[]=black&skip=0&categories[]=13,colors,Black
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.italist.com/api/search_products/women?colors[]=multi&skip=0&categories[]=13,colors,Multi
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.italist.com/api/search_products/women?colors[]=pink&skip=0&categories[]=13,colors,Pink
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.italist.com/api/search_products/women?colors[]=blue&skip=0&categories[]=13,colors,Blue
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.italist.com/api/search_products/women?colors[]=white&skip=0&categories[]=13,colors,White
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.italist.com/api/search_products/women?colors[]=beige&skip=0&categories[]=13,colors,Beige
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.italist.com/api/search_products/women?colors[]=red&skip=0&categories[]=13,colors,Red
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.italist.com/api/search_products/women?colors[]=green&skip=0&categories[]=13,colors,Green
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.italist.com/api/search_products/women?colors[]=brown&skip=0&categories[]=13,colors,Brown
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.italist.com/api/search_products/women?colors[]=purple&skip=0&categories[]=13,colors,Purple
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.italist.com/api/search_products/women?colors[]=orange&skip=0&categories[]=13,colors,Orange
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.italist.com/api/search_products/women?colors[]=yellow&skip=0&categories[]=13,colors,Yellow
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.italist.com/api/search_products/women?colors[]=grey&skip=0&categories[]=13,colors,Grey
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.italist.com/api/search_products/women?colors[]=turquoise&skip=0&categories[]=13,colors,Turquoise
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.italist.com/api/search_products/women?colors[]=silver&skip=0&categories[]=13,colors,Silver
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.italist.com/api/search_products/women?colors[]=gold&skip=0&categories[]=13,colors,Gold
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.italist.com/api/search_products/women?sleeve_lengths[]=&skip=0&categories[]=13,sleeveLengths,
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.italist.com/api/search_products/women?sleeve_lengths[]=sleeveless&skip=0&categories[]=13,sleeveLengths,Sleeveless
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.italist.com/api/search_products/women?sleeve_lengths[]=long&skip=0&categories[]=13,sleeveLengths,Long
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.italist.com/api/search_products/women?sleeve_lengths[]=short&skip=0&categories[]=13,sleeveLengths,Short
+Clothing,Women,Western,Dresses and Jumpsuits,Dresses,https://www.italist.com/api/search_products/women?sleeve_lengths[]=three_quarter&skip=0&categories[]=13,sleeveLengths,Three_Quarter
