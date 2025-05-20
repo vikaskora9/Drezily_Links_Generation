@@ -1,11 +1,11 @@
 Product_Category,Category,Subcategory1,Subcategory2,Subcategory3,Url,Attr_Name,Attr_Value,_id
 Clothing,Women,Western,Topwear,T-Shirts,https://us.princesspolly.com/collections/graphic-tees?filter.extra.Style=Activewear,extra.Style,Activewear,"{""field"": ""extra.Style"", ""value"": [""Activewear""]}"
 Clothing,Women,Western,Topwear,T-Shirts,https://us.princesspolly.com/collections/graphic-tees?filter.extra.Style=Basics,extra.Style,Basics,"{""field"": ""extra.Style"", ""value"": [""Basics""]}"
-Clothing,Women,Western,Topwear,Tops,https://us.princesspolly.com/collections/graphic-tees?filter.extra.Style=Crop Tops,extra.Style,Crop Tops,"{""field"": ""extra.Style"", ""value"": [""Crop Tops""]}"
+Clothing,Women,Western,Topwear,T-Shirts,https://us.princesspolly.com/collections/graphic-tees?filter.extra.Style=Crop Tops,extra.Style,Crop,"{""field"": ""extra.Style"", ""value"": [""Crop Tops""]}"
 Clothing,Women,Western,Topwear,T-Shirts,https://us.princesspolly.com/collections/graphic-tees?filter.extra.Style=Curve,extra.Style,Curve,"{""field"": ""extra.Style"", ""value"": [""Curve""]}"
 Clothing,Women,Western,Topwear,T-Shirts,https://us.princesspolly.com/collections/graphic-tees?filter.extra.Style=Graphic Tees,extra.Style,Graphic Tees,"{""field"": ""extra.Style"", ""value"": [""Graphic Tees""]}"
 Clothing,Women,Western,Topwear,T-Shirts,https://us.princesspolly.com/collections/graphic-tees?filter.extra.Style=Long Sleeve Tops,extra.Style,Long Sleeve Tops,"{""field"": ""extra.Style"", ""value"": [""Long Sleeve Tops""]}"
-Clothing,Women,Western,Topwear,T-Shirts,https://us.princesspolly.com/collections/graphic-tees?filter.extra.Style=Mini Dresses,extra.Style,Mini Dresses,"{""field"": ""extra.Style"", ""value"": [""Mini Dresses""]}"
+Clothing,Women,Western,Topwear,T-Shirts,https://us.princesspolly.com/collections/graphic-tees?filter.extra.Style=Mini Dresses,__,__,"{""field"": ""extra.Style"", ""value"": [""Mini Dresses""]}"
 Clothing,Women,Western,Topwear,T-Shirts,https://us.princesspolly.com/collections/graphic-tees?filter.extra.Style=Tees,extra.Style,Tees,"{""field"": ""extra.Style"", ""value"": [""Tees""]}"
 Clothing,Women,Western,Topwear,Tops,https://us.princesspolly.com/collections/graphic-tees?filter.extra.Style=Tops,extra.Style,Tops,"{""field"": ""extra.Style"", ""value"": [""Tops""]}"
 Clothing,Women,Western,Topwear,T-Shirts,https://us.princesspolly.com/collections/graphic-tees?filter.customFields.accentuate-nosto_facet_color=Beige,customFields.accentuate-nosto_facet_color,Beige,"{""field"": ""customFields.accentuate-nosto_facet_color"", ""value"": [""Beige""]}"

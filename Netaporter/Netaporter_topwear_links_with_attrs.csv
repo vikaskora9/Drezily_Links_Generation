@@ -1,7 +1,7 @@
 Product_Category,Category,Subcategory1,Subcategory2,Subcategory3,Url,Attr_Name,Attr_Value
 Clothing,Women,Western,Topwear,Blouses,https://www.net-a-porter.com/en-us/shop/clothing/clothing/tops/blouses,__,__
 Clothing,Women,Western,Topwear,Bodysuits,https://www.net-a-porter.com/en-us/shop/clothing/clothing/tops/bodysuits,__,__
-Clothing,Women,Western,Topwear,Polo Shirts,https://www.net-a-porter.com/en-us/shop/clothing/clothing/tops/polo-shirts,__,__
+Clothing,Women,Western,Topwear,Shirts,https://www.net-a-porter.com/en-us/shop/clothing/clothing/tops/polo-shirts,Type,Polo
 Clothing,Women,Western,Topwear,Shirts,https://www.net-a-porter.com/en-us/shop/clothing/clothing/tops/shirts,__,__
 Clothing,Women,Western,Topwear,T-Shirts,https://www.net-a-porter.com/en-us/shop/clothing/clothing/tops/t-shirts,__,__
 Clothing,Women,Western,Topwear,Tops,https://www.net-a-porter.com/en-us/shop/clothing/tops?facet=ads_f12007_ntk_cs%3A%22Long+Sleeved%22,Sleeves,Long Sleeved
@@ -82,12 +82,12 @@ Clothing,Women,Western,Topwear,Tops,https://www.net-a-porter.com/en-us/shop/clot
 Clothing,Women,Western,Topwear,Tops,https://www.net-a-porter.com/en-us/shop/clothing/tops?facet=ads_f10002_ntk_cs%3A%22L%22,,L
 Clothing,Women,Western,Topwear,Tops,https://www.net-a-porter.com/en-us/shop/clothing/tops?facet=ads_f10002_ntk_cs%3A%22XL%22,,XL
 Clothing,Women,Western,Topwear,Tops,https://www.net-a-porter.com/en-us/shop/clothing/tops?facet=ads_f10002_ntk_cs%3A%22XXL%22,,XXL
-Clothing,Women,Western,Topwear,Tops,https://www.net-a-porter.com/en-us/shop/clothing/clothing/tops/asymmetric-tops,Type,Asymmetric Tops
-Clothing,Women,Western,Topwear,Tops,https://www.net-a-porter.com/en-us/shop/clothing/clothing/tops/cropped-tops,Type,Cropped Tops
-Clothing,Women,Western,Topwear,Tops,https://www.net-a-porter.com/en-us/shop/clothing/clothing/tops/embellished-tops,Type,Embellished Tops
-Clothing,Women,Western,Topwear,Tops,https://www.net-a-porter.com/en-us/shop/clothing/clothing/tops/graphic-and-logo-tops,Type,Graphic And Logo Tops
-Clothing,Women,Western,Topwear,Tops,https://www.net-a-porter.com/en-us/shop/clothing/clothing/tops/long-sleeved-tops,Type,Long-Sleeved Tops
-Clothing,Women,Western,Topwear,Tops,https://www.net-a-porter.com/en-us/shop/clothing/clothing/tops/short-sleeved-tops,Type,Short-Sleeved Tops
+Clothing,Women,Western,Topwear,Tops,https://www.net-a-porter.com/en-us/shop/clothing/clothing/tops/asymmetric-tops,Value_1,Asymmetric Tops
+Clothing,Women,Western,Topwear,Tops,https://www.net-a-porter.com/en-us/shop/clothing/clothing/tops/cropped-tops,Value_1,Cropped Tops
+Clothing,Women,Western,Topwear,Tops,https://www.net-a-porter.com/en-us/shop/clothing/clothing/tops/embellished-tops,Value_1,Embellished Tops
+Clothing,Women,Western,Topwear,Tops,https://www.net-a-porter.com/en-us/shop/clothing/clothing/tops/graphic-and-logo-tops,Value_1,Graphic And Logo Tops
+Clothing,Women,Western,Topwear,Tops,https://www.net-a-porter.com/en-us/shop/clothing/clothing/tops/long-sleeved-tops,Value_1,Long-Sleeved Tops
+Clothing,Women,Western,Topwear,Tops,https://www.net-a-porter.com/en-us/shop/clothing/clothing/tops/short-sleeved-tops,Value_1,Short-Sleeved Tops
 Clothing,Women,Western,Topwear,Tops,https://www.net-a-porter.com/en-us/shop/clothing/clothing/tops/sweatshirts-and-hoodies,Type,Sweatshirts and Hoodies
 Clothing,Women,Western,Topwear,Tops,https://www.net-a-porter.com/en-us/shop/clothing/clothing/tops/tanks-and-camis,Type,Tanks and Camis
-Clothing,Women,Western,Topwear,Tops,https://www.net-a-porter.com/en-us/shop/clothing/clothing/tops/turtleneck-tops,Type,Turtleneck Tops
+Clothing,Women,Western,Topwear,Tops,https://www.net-a-porter.com/en-us/shop/clothing/clothing/tops/turtleneck-tops,Value_1,Turtleneck Tops

@@ -1,6 +1,7 @@
 Category,Product_Category,Subcategory1,Subcategory2,Subcategory3,Url,Attr_Name,Attr_Value
-Women,Clothing,Western,Topwear,Tops,https://www.aliceandolivia.com/on/demandware.store/Sites-aando-Site/default/Search-ShowAjax?cgid=tops&prefn1=topsByStyle&prefv1=Blouses&page=-0,BLOUSES,BLOUSES
-Women,Clothing,Western,Topwear,Tops,https://www.aliceandolivia.com/on/demandware.store/Sites-aando-Site/default/Search-ShowAjax?cgid=tops&prefn1=topsByStyle&prefv1=Bodysuits&page=-0,BODYSUITS,BODYSUITS
+Women,Clothing,Western,Topwear,Blouses,https://www.aliceandolivia.com/on/demandware.store/Sites-aando-Site/default/Search-ShowAjax?cgid=tops&prefn1=topsByStyle&prefv1=Blouses&page=-0,BLOUSES,BLOUSES
+Women,Clothing,Western,Topwear,Bodysuits,https://www.aliceandolivia.com/on/demandware.store/Sites-aando-Site/default/Search-ShowAjax?cgid=tops&prefn1=topsByStyle&prefv1=Bodysuits&page=-0,BODYSUITS,BODYSUITS
+Women,Clothing,Western,Topwear,T-Shirts,https://www.aliceandolivia.com/on/demandware.store/Sites-aando-Site/default/Search-ShowAjax?cgid=tops&prefn1=topsByStyle&prefv1=T-Shirts&page=-0,__,__
 Women,Clothing,Western,Topwear,Tops,https://www.aliceandolivia.com/on/demandware.store/Sites-aando-Site/default/Search-ShowAjax?cgid=tops&prefn1=color&prefv1=RED&page=-0,COLOR,RED
 Women,Clothing,Western,Topwear,Tops,https://www.aliceandolivia.com/on/demandware.store/Sites-aando-Site/default/Search-ShowAjax?cgid=tops&prefn1=color&prefv1=BROWN&page=-0,COLOR,BROWN
 Women,Clothing,Western,Topwear,Tops,https://www.aliceandolivia.com/on/demandware.store/Sites-aando-Site/default/Search-ShowAjax?cgid=tops&prefn1=color&prefv1=GOLD&page=-0,COLOR,GOLD
@@ -16,9 +17,7 @@ Women,Clothing,Western,Topwear,Tops,https://www.aliceandolivia.com/on/demandware
 Women,Clothing,Western,Topwear,Tops,https://www.aliceandolivia.com/on/demandware.store/Sites-aando-Site/default/Search-ShowAjax?cgid=tops&prefn1=color&prefv1=BLACK&page=-0,COLOR,BLACK
 Women,Clothing,Western,Topwear,Tops,https://www.aliceandolivia.com/on/demandware.store/Sites-aando-Site/default/Search-ShowAjax?cgid=tops&prefn1=color&prefv1=MULTI&page=-0,COLOR,MULTI
 Women,Clothing,Western,Topwear,Tops,https://www.aliceandolivia.com/on/demandware.store/Sites-aando-Site/default/Search-ShowAjax?cgid=tops&prefn1=topsByStyle&prefv1=Crop%20Tops&page=-0,Style,CROP TOPS
-Women,Clothing,Western,Topwear,Tops,https://www.aliceandolivia.com/on/demandware.store/Sites-aando-Site/default/Search-ShowAjax?cgid=tops&prefn1=topsByStyle&prefv1=Sweatshirts&page=-0,Style,SWEATSHIRTS
-Women,Clothing,Western,Topwear,Tops,https://www.aliceandolivia.com/on/demandware.store/Sites-aando-Site/default/Search-ShowAjax?cgid=tops&prefn1=topsByStyle&prefv1=Tanks&page=-0,Style,TANKS
-Women,Clothing,Western,Topwear,T-Shirts,https://www.aliceandolivia.com/on/demandware.store/Sites-aando-Site/default/Search-ShowAjax?cgid=tops&prefn1=topsByStyle&prefv1=T-Shirts&page=-0,__,__
+Women,Clothing,Western,Topwear,Tops,https://www.aliceandolivia.com/on/demandware.store/Sites-aando-Site/default/Search-ShowAjax?cgid=tops&prefn1=topsByStyle&prefv1=Tanks&page=-0,Style,Tank Tops
 Women,Clothing,Western,Topwear,Tops,https://www.aliceandolivia.com/on/demandware.store/Sites-aando-Site/default/Search-ShowAjax?cgid=tops&prefn1=topsByStyle&prefv1=Vests&page=-0,VESTS,VESTS
 Women,Clothing,Western,Topwear,Tops,https://www.aliceandolivia.com/on/demandware.store/Sites-aando-Site/default/Search-ShowAjax?cgid=tops&prefn1=TopsSleeveLength&prefv1=Long%20Sleeve&page=-0,Sleeve_Length,LONG SLEEVE
 Women,Clothing,Western,Topwear,Tops,https://www.aliceandolivia.com/on/demandware.store/Sites-aando-Site/default/Search-ShowAjax?cgid=tops&prefn1=TopsSleeveLength&prefv1=Short%20Sleeve&page=-0,Sleeve_Length,SHORT SLEEVE

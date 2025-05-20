@@ -1,27 +1,27 @@
 Product_Category,Category,Subcategory1,Subcategory2,Subcategory3,Url,Attr_Name,Attr_Value
-Clothing,Women,Western,Topwear,Polo T-Shirts,https://www.italist.com/api/search_products/women?skip=0&colors[]=black&categories[]=58,colors,Black
-Clothing,Women,Western,Topwear,Polo T-Shirts,https://www.italist.com/api/search_products/women?skip=0&colors[]=white&categories[]=58,colors,White
-Clothing,Women,Western,Topwear,Polo T-Shirts,https://www.italist.com/api/search_products/women?skip=0&colors[]=multi&categories[]=58,colors,Multi
-Clothing,Women,Western,Topwear,Polo T-Shirts,https://www.italist.com/api/search_products/women?skip=0&colors[]=blue&categories[]=58,colors,Blue
-Clothing,Women,Western,Topwear,Polo T-Shirts,https://www.italist.com/api/search_products/women?skip=0&colors[]=beige&categories[]=58,colors,Beige
-Clothing,Women,Western,Topwear,Polo T-Shirts,https://www.italist.com/api/search_products/women?skip=0&colors[]=pink&categories[]=58,colors,Pink
-Clothing,Women,Western,Topwear,Polo T-Shirts,https://www.italist.com/api/search_products/women?skip=0&colors[]=brown&categories[]=58,colors,Brown
-Clothing,Women,Western,Topwear,Polo T-Shirts,https://www.italist.com/api/search_products/women?skip=0&colors[]=red&categories[]=58,colors,Red
-Clothing,Women,Western,Topwear,Polo T-Shirts,https://www.italist.com/api/search_products/women?skip=0&colors[]=purple&categories[]=58,colors,Purple
-Clothing,Women,Western,Topwear,Polo T-Shirts,https://www.italist.com/api/search_products/women?skip=0&colors[]=grey&categories[]=58,colors,Grey
-Clothing,Women,Western,Topwear,Polo T-Shirts,https://www.italist.com/api/search_products/women?skip=0&colors[]=green&categories[]=58,colors,Green
-Clothing,Women,Western,Topwear,Polo T-Shirts,https://www.italist.com/api/search_products/women?skip=0&colors[]=orange&categories[]=58,colors,Orange
-Clothing,Women,Western,Topwear,Polo T-Shirts,https://www.italist.com/api/search_products/women?skip=0&colors[]=silver&categories[]=58,colors,Silver
-Clothing,Women,Western,Topwear,Polo T-Shirts,https://www.italist.com/api/search_products/women?skip=0&colors[]=yellow&categories[]=58,colors,Yellow
-Clothing,Women,Western,Topwear,Polo T-Shirts,https://www.italist.com/api/search_products/women?skip=0&onSale[]=0&categories[]=58,onSale,0
-Clothing,Women,Western,Topwear,Polo T-Shirts,https://www.italist.com/api/search_products/women?skip=0&seasons[]=SS25&categories[]=58,seasons,Ss25
-Clothing,Women,Western,Topwear,Polo T-Shirts,https://www.italist.com/api/search_products/women?skip=0&seasons[]=FW24&categories[]=58,seasons,Fw24
-Clothing,Women,Western,Topwear,Polo T-Shirts,https://www.italist.com/api/search_products/women?skip=0&seasons[]=SS24&categories[]=58,seasons,Ss24
-Clothing,Women,Western,Topwear,Polo T-Shirts,https://www.italist.com/api/search_products/women?skip=0&seasons[]=FW23&categories[]=58,seasons,Fw23
-Clothing,Women,Western,Topwear,Polo T-Shirts,https://www.italist.com/api/search_products/women?skip=0&seasons[]=SS23&categories[]=58,seasons,Ss23
-Clothing,Women,Western,Topwear,Polo T-Shirts,https://www.italist.com/api/search_products/women?skip=0&seasons[]=FW22&categories[]=58,seasons,Fw22
-Clothing,Women,Western,Topwear,Polo T-Shirts,https://www.italist.com/api/search_products/women?skip=0&sleeveLengths[]=short&categories[]=58,sleeveLengths,Short
-Clothing,Women,Western,Topwear,Polo T-Shirts,https://www.italist.com/api/search_products/women?skip=0&sleeveLengths[]=&categories[]=58,sleeveLengths,
-Clothing,Women,Western,Topwear,Polo T-Shirts,https://www.italist.com/api/search_products/women?skip=0&sleeveLengths[]=long&categories[]=58,sleeveLengths,Long
-Clothing,Women,Western,Topwear,Polo T-Shirts,https://www.italist.com/api/search_products/women?skip=0&sleeveLengths[]=three_quarter&categories[]=58,sleeveLengths,Three_Quarter
-Clothing,Women,Western,Topwear,Polo T-Shirts,https://www.italist.com/api/search_products/women?skip=0&sleeveLengths[]=sleeveless&categories[]=58,sleeveLengths,Sleeveless
+Clothing,Women,Western,Topwear,T-Shirts,https://www.italist.com/api/search_products/women?skip=0&colors[]=black&categories[]=58,colors,Black
+Clothing,Women,Western,Topwear,T-Shirts,https://www.italist.com/api/search_products/women?skip=0&colors[]=white&categories[]=58,colors,White
+Clothing,Women,Western,Topwear,T-Shirts,https://www.italist.com/api/search_products/women?skip=0&colors[]=multi&categories[]=58,colors,Multi
+Clothing,Women,Western,Topwear,T-Shirts,https://www.italist.com/api/search_products/women?skip=0&colors[]=blue&categories[]=58,colors,Blue
+Clothing,Women,Western,Topwear,T-Shirts,https://www.italist.com/api/search_products/women?skip=0&colors[]=beige&categories[]=58,colors,Beige
+Clothing,Women,Western,Topwear,T-Shirts,https://www.italist.com/api/search_products/women?skip=0&colors[]=pink&categories[]=58,colors,Pink
+Clothing,Women,Western,Topwear,T-Shirts,https://www.italist.com/api/search_products/women?skip=0&colors[]=brown&categories[]=58,colors,Brown
+Clothing,Women,Western,Topwear,T-Shirts,https://www.italist.com/api/search_products/women?skip=0&colors[]=red&categories[]=58,colors,Red
+Clothing,Women,Western,Topwear,T-Shirts,https://www.italist.com/api/search_products/women?skip=0&colors[]=purple&categories[]=58,colors,Purple
+Clothing,Women,Western,Topwear,T-Shirts,https://www.italist.com/api/search_products/women?skip=0&colors[]=grey&categories[]=58,colors,Grey
+Clothing,Women,Western,Topwear,T-Shirts,https://www.italist.com/api/search_products/women?skip=0&colors[]=green&categories[]=58,colors,Green
+Clothing,Women,Western,Topwear,T-Shirts,https://www.italist.com/api/search_products/women?skip=0&colors[]=orange&categories[]=58,colors,Orange
+Clothing,Women,Western,Topwear,T-Shirts,https://www.italist.com/api/search_products/women?skip=0&colors[]=silver&categories[]=58,colors,Silver
+Clothing,Women,Western,Topwear,T-Shirts,https://www.italist.com/api/search_products/women?skip=0&colors[]=yellow&categories[]=58,colors,Yellow
+Clothing,Women,Western,Topwear,T-Shirts,https://www.italist.com/api/search_products/women?skip=0&onSale[]=0&categories[]=58,onSale,0
+Clothing,Women,Western,Topwear,T-Shirts,https://www.italist.com/api/search_products/women?skip=0&seasons[]=SS25&categories[]=58,seasons,Ss25
+Clothing,Women,Western,Topwear,T-Shirts,https://www.italist.com/api/search_products/women?skip=0&seasons[]=FW24&categories[]=58,seasons,Fw24
+Clothing,Women,Western,Topwear,T-Shirts,https://www.italist.com/api/search_products/women?skip=0&seasons[]=SS24&categories[]=58,seasons,Ss24
+Clothing,Women,Western,Topwear,T-Shirts,https://www.italist.com/api/search_products/women?skip=0&seasons[]=FW23&categories[]=58,seasons,Fw23
+Clothing,Women,Western,Topwear,T-Shirts,https://www.italist.com/api/search_products/women?skip=0&seasons[]=SS23&categories[]=58,seasons,Ss23
+Clothing,Women,Western,Topwear,T-Shirts,https://www.italist.com/api/search_products/women?skip=0&seasons[]=FW22&categories[]=58,seasons,Fw22
+Clothing,Women,Western,Topwear,T-Shirts,https://www.italist.com/api/search_products/women?skip=0&sleeveLengths[]=short&categories[]=58,sleeveLengths,Short
+Clothing,Women,Western,Topwear,T-Shirts,https://www.italist.com/api/search_products/women?skip=0&sleeveLengths[]=&categories[]=58,__,__
+Clothing,Women,Western,Topwear,T-Shirts,https://www.italist.com/api/search_products/women?skip=0&sleeveLengths[]=long&categories[]=58,sleeveLengths,Long
+Clothing,Women,Western,Topwear,T-Shirts,https://www.italist.com/api/search_products/women?skip=0&sleeveLengths[]=three_quarter&categories[]=58,sleeveLengths,Three_Quarter
+Clothing,Women,Western,Topwear,T-Shirts,https://www.italist.com/api/search_products/women?skip=0&sleeveLengths[]=sleeveless&categories[]=58,sleeveLengths,Sleeveless
