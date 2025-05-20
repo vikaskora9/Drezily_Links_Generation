@@ -1,23 +1,21 @@
 Product_Category,Category,Subcategory1,Subcategory2,Subcategory3,Url,Attr_Name,Attr_Value,Refinement,Ref_Value
+Clothing,Women,Western,Topwear,Blouses,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Blouses,__,__,tile.product.facets.silhouettes,Blouses
+Clothing,Women,Western,Topwear,Bodysuits,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Bodysuit,__,___,tile.product.facets.silhouettes,Bodysuit
+Clothing,Women,Western,Topwear,Shirts,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Button-Downs,__,___,tile.product.facets.silhouettes,Button-Downs
+Clothing,Women,Western,Topwear,T-Shirts,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Polos,Style,Polos,tile.product.facets.silhouettes,Polos
 Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Oversized,Style,Oversized,tile.product.facets.silhouettes,Oversized
 Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Cropped,Style,Cropped,tile.product.facets.silhouettes,Cropped
 Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Fitted,Style,Fitted,tile.product.facets.silhouettes,Fitted
 Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Pullovers,Style,Pullovers,tile.product.facets.silhouettes,Pullovers
 Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Cardigans,Style,Cardigans,tile.product.facets.silhouettes,Cardigans
-Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Button-Downs,Style,Button-Downs,tile.product.facets.silhouettes,Button-Downs
 Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Basic,Style,Basic,tile.product.facets.silhouettes,Basic
 Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Zip-Up,Style,Zip-Up,tile.product.facets.silhouettes,Zip-Up
-Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Blouses,Style,Blouses,tile.product.facets.silhouettes,Blouses
 Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Flannels,Style,Flannels,tile.product.facets.silhouettes,Flannels
 Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Henleys,Style,Henleys,tile.product.facets.silhouettes,Henleys
 Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Asymmetrical,Style,Asymmetrical,tile.product.facets.silhouettes,Asymmetrical
-Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Bodysuit,Style,Bodysuit,tile.product.facets.silhouettes,Bodysuit
 Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Ribbed,Style,Ribbed,tile.product.facets.silhouettes,Ribbed
 Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Ruched,Style,Ruched,tile.product.facets.silhouettes,Ruched
 Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Peplum,Style,Peplum,tile.product.facets.silhouettes,Peplum
-Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Polos,Style,Polos,tile.product.facets.silhouettes,Polos
-Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Shrugs,Style,Shrugs,tile.product.facets.silhouettes,Shrugs
-Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Baby Tees,Style,Baby Tees,tile.product.facets.silhouettes,Baby Tees
 Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Babydoll,Style,Babydoll,tile.product.facets.silhouettes,Babydoll
 Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Smocked,Style,Smocked,tile.product.facets.silhouettes,Smocked
 Clothing,Women,Western,Topwear,Tops,https://www.urbanoutfitters.com/womens-tops?page=3&Style=Bustiers + Corsets,Style,Bustiers + Corsets,tile.product.facets.silhouettes,Bustiers + Corsets
